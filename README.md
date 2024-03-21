@@ -9,5 +9,6 @@ NeuroStartUp — динамически развивающийся старта�
    - VK
    - Instagramm
    - Facebook
+   - Mail
  
 
